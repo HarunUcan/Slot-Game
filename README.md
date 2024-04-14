@@ -10,7 +10,7 @@
 
 ### Nasıl Oynanır
 * 20 farklı kazanma çizgisinin üzerinde art arda 3, 4 yada 5'li gelen aynı kartlar kazandırır.
-* Slotun üzerinde 3,4 veya 5 Bonus belirirse sırasıyla 10, 15 ve 20 ücretsiz oyun kazandırır. İlk maddedeki kazanma durumları bu kart için de geçerlidir. Aynı sütunda 1'den fazla Bonus beliremez.
+* Slotun üzerinde 3, 4 veya 5 Bonus belirirse sırasıyla 10, 15 ve 20 ücretsiz oyun kazandırır. İlk maddedeki kazanma durumları bu kart için de geçerlidir. Aynı sütunda 1'den fazla Bonus beliremez.
 * Wild eğer ki çizgilerin üzerinde ilk maddedeki gibi art arda 3, 4 veya 5'li kombinasyonlar şeklinde beliriyorsa normal kazanç hesaplanır. Ancak bu durumlar gerçekleşmezse Wild kartı kendisinin bir sağındaki kartın özelliğini alır ve kazanç durumu oluşuyorsa dönüştüğü kartın çarpanlarına göre kazanç hesaplanır.
 
 ## Görseller
