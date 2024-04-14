@@ -15,10 +15,14 @@
 
 ## Görseller
 
+### Normal Kazançlar
 ![Win](https://github.com/HarunUcan/Slot-Game/assets/129796812/cecd1822-f144-4e05-8c0a-234fb842c4f3)
 
+### Wild Dönüşümü ile Kazanç
 ![WildWin](https://github.com/HarunUcan/Slot-Game/assets/129796812/3461a62c-6c27-4674-89d1-989c6c36d41e)
 
+### Ücretsiz 10 Çevirme
 ![FreeSpin](https://github.com/HarunUcan/Slot-Game/assets/129796812/b4fefa0d-1bf3-44ab-b3ba-6e55296a5601)
 
+### Tüm Kazanç Yolları
 ![AllWinLines](https://github.com/HarunUcan/Slot-Game/assets/129796812/cf91c7f4-ed1c-4991-baf4-dcf160636acf)
